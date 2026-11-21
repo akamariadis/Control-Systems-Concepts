@@ -4,7 +4,7 @@
 ![Subject](https://img.shields.io/badge/Subject-Control%20Theory-success.svg)
 ![University](https://img.shields.io/badge/NTUA-ECE-maroon.svg)
 
-A collection of Python-based scripts and visualizations demonstrating core **Control Theory** principles. Built as a visual study companion for students exploring dynamic systems and feedback control.
+A collection of Python-based scripts and visualizations demonstrating core Control Theory principles. Built as a visual study companion for fellow students exploring dynamic systems and feedback control.
 
 ## Curriculum Alignment
 
